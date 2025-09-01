@@ -1,6 +1,0 @@
-dataset
-temp_uploads
-model/Music_Genre_Classification.h5
-model/Music_Genre_Classification.keras
-
-prediction_history.json

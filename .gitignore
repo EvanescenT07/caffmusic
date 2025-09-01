@@ -50,5 +50,6 @@ frontend/client_secret.apps.googleusercontent.com.json
 # BACKEND gitignore
 backend/dataset
 backend/temp_uploads
+backend/venv/
 
 backend/prediction_history.json

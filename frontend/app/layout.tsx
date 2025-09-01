@@ -21,10 +21,12 @@ export const metadata: Metadata = {
     icon: [
       {
         url: "/favicon.png",
-        sizes: "32x32",
+        href: "/favicon.png",
         type: "image/png",
-      }
+        sizes: "any",
+      },
     ],
+    shortcut: ["/favicon.png"],
   },
 };
 

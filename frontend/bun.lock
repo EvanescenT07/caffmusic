@@ -5,7 +5,7 @@
       "name": "frontend",
       "dependencies": {
         "@auth/prisma-adapter": "^2.9.0",
-        "@prisma/client": "^6.6.0",
+        "@prisma/client": "^6.15.0",
         "@prisma/extension-accelerate": "^1.3.0",
         "@radix-ui/react-accordion": "^1.2.10",
         "@radix-ui/react-dialog": "^1.1.10",
@@ -223,7 +223,7 @@
 
     "@panva/hkdf": ["@panva/hkdf@1.2.1", "", {}, "sha512-6oclG6Y3PiDFcoyk8srjLfVKyMfVCKJ27JwNPViuXziFpmdz+MZnZN/aKY0JGXgYuO/VghU0jcOAZgWXZ1Dmrw=="],
 
-    "@prisma/client": ["@prisma/client@6.6.0", "", { "peerDependencies": { "prisma": "*", "typescript": ">=5.1.0" } }, "sha512-vfp73YT/BHsWWOAuthKQ/1lBgESSqYqAWZEYyTdGXyFAHpmewwWL2Iz6ErIzkj4aHbuc6/cGSsE6ZY+pBO04Cg=="],
+    "@prisma/client": ["@prisma/client@6.15.0", "", { "peerDependencies": { "prisma": "*", "typescript": ">=5.1.0" }, "optionalPeers": ["prisma", "typescript"] }, "sha512-wR2LXUbOH4cL/WToatI/Y2c7uzni76oNFND7+23ypLllBmIS8e3ZHhO+nud9iXSXKFt1SoM3fTZvHawg63emZw=="],
 
     "@prisma/config": ["@prisma/config@6.6.0", "", { "dependencies": { "esbuild": ">=0.12 <1", "esbuild-register": "3.6.0" } }, "sha512-d8FlXRHsx72RbN8nA2QCRORNv5AcUnPXgtPvwhXmYkQSMF/j9cKaJg+9VcUzBRXGy9QBckNzEQDEJZdEOZ+ubA=="],
 
